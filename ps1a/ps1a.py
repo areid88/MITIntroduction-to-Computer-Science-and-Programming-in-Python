@@ -19,4 +19,4 @@ x = portion_down_payment / end_of_month
 y = str(x/12)
 
 
-print("It will take " + y + "years1 to save your down payment!")
+print("It will take " + y + "years to save your down payment!")
